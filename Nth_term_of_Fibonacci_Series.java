@@ -1,4 +1,4 @@
-public class Fibonacci_Series {
+public class Nth_term_of_Fibonacci_Series {
     public static void main(String[] args){
         System.out.println(fibo(5));
     }
